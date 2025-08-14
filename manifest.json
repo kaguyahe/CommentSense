@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Openrice評論分析",
+  "version": "1.0",
+  "descriptions": "獲取餐廳評論分析報告，並傳達給用戶",
+  "permissions": ["activeTab", "tabs"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon-16.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    }
+  }
+}
