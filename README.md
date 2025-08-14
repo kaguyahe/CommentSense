@@ -3,7 +3,7 @@ Prerequisites
 Before you start, ensure you have:
 	•	Google Chrome browser installed.
 	•	Python 3.7+ installed on your system.
-	•	Necessary Python dependencies (Flask, BeautifulSoup, requests, openai).
+	•	Necessary Python dependencies (Flask, BeautifulSoup, requests, openai, flask_cors).
 
 Installation Steps
 
